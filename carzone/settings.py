@@ -47,7 +47,7 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'allauth',
     'allauth.account',
-    'allauth.socialaccount',
+    # 'allauth.socialaccount',
     'multiselectfield',
     # 'cars.apps.CarsConfig',
     # 'pages.apps.PagesConfig',
@@ -58,8 +58,8 @@ INSTALLED_APPS = [
     # 'django.contrib.messages',
     # 'django.contrib.staticfiles',
     # Providers
-    'allauth.socialaccount.providers.facebook',
-    'allauth.socialaccount.providers.google',
+    # 'allauth.socialaccount.providers.facebook',
+    # 'allauth.socialaccount.providers.google',
     # 'accounts.apps.AccountsConfig',
     # 'contacts.apps.ContactsConfig',
     
@@ -177,7 +177,7 @@ CKEDITOR_UPLOAD_PATH = "/home/media/media.lawrence.com/uploads"
 # Email sending
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'fatemeh.afvaj1996@gmail.com'
+EMAIL_HOST_USER = 'testpython1996@gmail.com'
 EMAIL_HOST_PASSWORD = 'fa4420587490'
 EMAIL_USE_TLS = True
 
