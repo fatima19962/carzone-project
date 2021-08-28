@@ -1,0 +1,522 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "AR",
+        "city": "boston",
+        "color": "white",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "used",
+        "price": 40000,
+        "description": "<p>The&nbsp;<strong>Ferrari 488</strong>&nbsp;(Type F142M) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a>&nbsp;produced by the Italian automobile manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre&nbsp;<a href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine&nbsp;<a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\"><em>Top Gear</em></a>, as well as becoming&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a>&nbsp;announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a>&nbsp;The 488 was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8_Tributo\" title=\"Ferrari F8 Tributo\">F8 Tributo</a>&nbsp;in February 2019.</p>",
+        "car_photo": "photos/2021/08/21/1902536891.jpg",
+        "car_photo_1": "photos/2021/08/21/1902536917.jpg",
+        "car_photo_2": "photos/2021/08/21/1902537043.jpg",
+        "car_photo_3": "photos/2021/08/21/1902537077.jpg",
+        "car_photo_4": "photos/2021/08/21/1902537082.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "sport",
+        "engine": "fdfdf",
+        "transmission": "automatic",
+        "interior": "gray",
+        "miles": 10000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "kkkk",
+        "milage": 5,
+        "fuel_type": "petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-08-21T15:56:04Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photos/2021/08/06/WIN_20210121_21_31_07_Pro_evffoN0.jpg",
+        "facebook_link": "http://www.facebook.ir",
+        "twitter_link": "http://www.twitter.ir",
+        "google_plus_link": "http://www.googlepluse.com",
+        "created_date": "2021-08-06T00:00:00Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Web Developer",
+        "photo": "photos/2021/08/06/WIN_20210121_21_31_07_Pro.jpg",
+        "facebook_link": "http://www.facebook.ir",
+        "twitter_link": "http://www.twitter.ir",
+        "google_plus_link": "http://www.googlepluse.com",
+        "created_date": "2021-08-06T00:00:00Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photos/2021/08/06/WIN_20210121_21_31_07_Pro_TmwKLCP.jpg",
+        "facebook_link": "http://www.facebook.ir",
+        "twitter_link": "http://www.twitter.ir",
+        "google_plus_link": "http://www.googlepluse.com",
+        "created_date": "2021-08-06T00:00:00Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "Support Manager",
+        "photo": "photos/2021/08/06/WIN_20210121_21_31_07_Pro_TmwKLCP_QBosOGl.jpg",
+        "facebook_link": "http://www.facebook.ir",
+        "twitter_link": "http://www.twitter.ir",
+        "google_plus_link": "http://www.googlepluse.com",
+        "created_date": "2021-08-06T00:00:00Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Brandon",
+        "last_name": "Miller",
+        "designation": "Manager",
+        "photo": "photos/2021/08/06/WIN_20210121_21_31_07_Pro_TmwKLCP_jqKYven.jpg",
+        "facebook_link": "http://www.facebook.ir",
+        "twitter_link": "http://www.twitter.ir",
+        "google_plus_link": "http://www.googlepluse.com",
+        "created_date": "2021-08-06T00:00:00Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "marya",
+        "last_name": "nasari",
+        "car_id": 1,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "city": "yazd",
+        "state": "iran",
+        "email": "mscoolcee@email.phoenix.edu",
+        "phone": "",
+        "message": "hi",
+        "user_id": 2,
+        "create_date": "2021-08-22T01:20:08.914Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$q1P6UBciH4oA4lNrFYSWVi$Lk4Pz7sNwigYGopa78WYY1XsvlbUIfj1SS2WNxpfXbE=",
+        "last_login": "2021-08-21T21:19:02.534Z",
+        "is_superuser": true,
+        "username": "edr",
+        "first_name": "fatemeh",
+        "last_name": "afvaj",
+        "email": "fatemeh.afvaj1996@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-08-05T18:19:46Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$43TDckUKFTf8QsshfUWpZ6$9MP4S8iXq/CY/kEvrQALwuFV3YGQY8hy81dGVTvV6sU=",
+        "last_login": "2021-08-21T20:30:48.271Z",
+        "is_superuser": false,
+        "username": "edr1",
+        "first_name": "marya",
+        "last_name": "nasari",
+        "email": "mscoolcee@email.phoenix.edu",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-08-21T20:10:18.679Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$DbqYzQw84TiNynIhW5sLr2$nw353ns4ark/oAsl7wkj/M9MCD+LzY01XqDCBPap0Wo=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "edr2",
+        "first_name": "fatemeh",
+        "last_name": "Smith",
+        "email": "testpython1996@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-08-21T20:52:33Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "cikn1lva0j5xy8kalxfgsc8qorgqpjqz",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSE8hXHpvt9AhgGkaiAp7cr479qkC93ec859sYDbWsM28hLmxC5MstPvFpEeue0g3bHdOqfe1mWOfFf4QQefesrP6-H-HVQc9VtHQCFRpOyVMSA9qQIYrQPIvhhnVNFSO9CiwBkSgfU6FhcTWUXkvWTvD9WwN5U:1mHYOM:ct0yRU5r6gx-f-jMX3W9zdqqnigHkOlvltTz_rBkv_0",
+        "expire_date": "2021-09-04T21:19:02.537Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "m7xscadqmrjw4qon4wbaq6jxg3bueguy",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSE8hXHpvt9AhgGkaiAp7cr479qkC93ec859sYDbWsM28hLmxC5MstPvFpEeue0g3bHdOqfe1mWOfFf4QQefesrP6-H-HVQc9VtHQCFRpOyVMSA9qQIYrQPIvhhnVNFSO9CiwBkSgfU6FhcTWUXkvWTvD9WwN5U:1mBi1d:COgPoxVCBSWjoyEDd2JNwqbHEow4P6IiJ597EXjzaZs",
+        "expire_date": "2021-08-19T18:23:25.818Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-08-05T18:23:43.599Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "edr",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-08-06T13:14:18.577Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-08-06T13:39:04.170Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "fatemeh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-08-06T17:03:26.584Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "fatemeh",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-08-06T17:06:01.897Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-08-06T17:07:01.281Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-08-06T17:07:58.024Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-08-06T17:09:00.477Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Michelle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-08-06T17:09:42.959Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Brandon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-08-21T15:56:44.158Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-08-21T16:01:49.522Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-08-21T16:02:06.677Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-08-21T19:28:22.146Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-08-21T19:57:40.891Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-08-21T20:52:33.704Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "3",
+        "object_repr": "edr2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-08-21T20:52:54.047Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "3",
+        "object_repr": "edr2",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\", \"Staff status\", \"Superuser status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-08-21T21:21:02.835Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "3",
+        "object_repr": "edr2",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Superuser status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-08-21T21:21:13.771Z",
+        "user": [
+            "edr"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "3",
+        "object_repr": "edr2",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+    }
+}
+]
